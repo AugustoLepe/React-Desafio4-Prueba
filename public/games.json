@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Assassin's Creed: The Ezio Collection",
+        "publishers": "Ubisoft"
+    },
+    {
+        "id": 2,
+        "name": "Assassin's Creed: Origins",
+        "publishers": "Ubisoft"
+    },
+    {
+        "id": 3,
+        "name": "Assassin's Creed: Odyssey",
+        "publishers": "Ubisoft"
+    },
+    {
+        "id": 4,
+        "name": "Star Wars Battlefront",
+        "publishers": "Electronic Arts"
+    },
+    {
+        "id": 5,
+        "name": "Star Wars Battlefront II",
+        "publishers": "Electronic Arts"
+    },
+    {
+        "id": 6,
+        "name": "Battlefield 4",
+        "publishers": "Electronic Arts"
+    },
+    {
+        "id": 7,
+        "name": "Battlefield V",
+        "publishers": "Electronic Arts"
+    },
+    {
+        "id": 8,
+        "name": "Gears of War: Ultimate Edition",
+        "publishers": "Xbox Game Studios"
+    },
+    {
+        "id": 9,
+        "name": "Gears 5",
+        "publishers": "Xbox Game Studios"
+    },
+    {
+        "id": 10,
+        "name": "Halo: The Master Chief Collection",
+        "publishers": "Xbox Game Studios"
+    },
+    {
+        "id": 11,
+        "name": "Halo Infinite",
+        "publishers": "Xbox Game Studios"
+    },
+    {
+        "id": 12,
+        "name": "Resident Evil 2",
+        "publishers": "Capcom"
+    },
+    {
+        "id": 13,
+        "name": "Resident Evil HD Remaster",
+        "publishers": "Capcom"
+    },
+    {
+        "id": 14,
+        "name": "Street Fighter 30th Anniversary Collection",
+        "publishers": "Capcom"
+    },
+    {
+        "id": 15,
+        "name": "Tekken 7",
+        "publishers": "Bandai Namco Entertainment"
+    },
+    {
+        "id": 16,
+        "name": "Samurai Shodown",
+        "publishers": "SNK"
+    },
+    {
+        "id": 17,
+        "name": "Doom",
+        "publishers": "Bethesda Softworks"
+    },
+    {
+        "id": 18,
+        "name": "Doom Eternal",
+        "publishers": "Bethesda Softworks"
+    },
+    {
+        "id": 19,
+        "name": "Tomb Raider: Definitive Edition",
+        "publishers": "Square Enix"
+    },
+    {
+        "id": 20,
+        "name": "Rise of the Tomb Raider",
+        "publishers": "Square Enix"
+    },
+    {
+        "id": 21,
+        "name": "Red Dead Redemption 2",
+        "publishers": "Take-Two Interactive"
+    },
+    {
+        "id": 22,
+        "name": "Grand Theft Auto V",
+        "publishers": "Rockstar Games"
+    },
+    {
+        "id": 23,
+        "name": "The Witcher 3: Wild Hunt",
+        "publishers": "CD Projekt\nWarner Bros. Interactive Entertainment"
+    },
+    {
+        "id": 24,
+        "name": "Dark Souls Remastered",
+        "publishers": "Bandai Namco Entertainment"
+    },
+    {
+        "id": 25,
+        "name": "Elden Ring",
+        "publishers": "Bandai Namco Entertainment"
+    },
+    {
+        "id": 26,
+        "name": "The Elder Scrolls V: Skyrim - Special Edition",
+        "publishers": "Bethesda Softworks"
+    },
+    {
+        "id": 27,
+        "name": "Forza Horizon 5",
+        "publishers": "Xbox Game Studios"
+    },
+    {
+        "id": 28,
+        "name": "Metal Gear Solid V: The Phantom Pain",
+        "publishers": "Konami"
+    },
+    {
+        "id": 29,
+        "name": "Final Fantasy XV",
+        "publishers": "Square Enix"
+    },
+    {
+        "id": 30,
+        "name": "Mortal Kombat 11",
+        "publishers": "Warner Bros. Interactive Entertainment"
+    }
+]
