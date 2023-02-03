@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://img.unocero.com/2022/03/image_2022-03-11_19-13-19.png');
+  background-size: contain;
 }
 
 code {
